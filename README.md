@@ -65,12 +65,15 @@ I believe in learning by doing, solving real-world problems, and improving mysel
 </p>
 
 ---
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 ### 🧠 What I'm Currently Doing
 - 🔭 Building React-based projects  
 - 🧪 Practicing REST API & Axios  
 - 📚 Strengthening JavaScript & React fundamentals  
-- 🛠 Learning clean code & best practices  
+- 🛠 Learning clean code & best practices
+
+
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+  
 
 ---
 
