@@ -76,21 +76,6 @@ I believe in learning by doing, solving real-world problems, and improving mysel
 - 📚 Strengthening JavaScript & React fundamentals  
 - 🛠 Learning clean code & best practices  
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AltafMahmud&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AltafMahmud&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AltafMahmud&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
