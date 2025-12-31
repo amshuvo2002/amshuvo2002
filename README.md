@@ -81,19 +81,11 @@ I believe in learning by doing, solving real-world problems, and improving mysel
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amshuvo2002&show_icons=true&count_private=true&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=amshuvo2002&show_icons=true&count_private=true" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amshuvo2002&theme=tokyonight" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amshuvo2002" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amshuvo2002&layout=compact&theme=tokyonight" />
-</p>
-
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amshuvo2002&layout=compact" />
 
 ---
 
