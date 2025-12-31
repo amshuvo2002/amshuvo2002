@@ -69,12 +69,30 @@ I believe in learning by doing, solving real-world problems, and improving mysel
 
 ### 🧠 What I'm Currently Doing
 
-<img align="right" height="250" width="375" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
 
 - 🔭 Building React-based projects  
 - 🧪 Practicing REST API & Axios  
 - 📚 Strengthening JavaScript & React fundamentals  
-- 🛠 Learning clean code & best practices  
+- 🛠 Learning clean code & best practices
+
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amshuvo2002&show_icons=true&count_private=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amshuvo2002&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amshuvo2002&layout=compact&theme=tokyonight" />
+</p>
+
 
 
 ---
