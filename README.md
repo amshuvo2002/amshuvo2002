@@ -26,6 +26,13 @@ I am a learner from **Programming Hero – Web Development (Batch 12)** and focu
 I believe in learning by doing, solving real-world problems, and improving myself consistently through practice.
 
 ---
+<hr>
+<h3 align="left">✨ Random Dev Quote::</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+<hr>
+---
 
 ### 🛠️ Technologies I Learned in the Last 6 Months
 
@@ -60,32 +67,12 @@ I believe in learning by doing, solving real-world problems, and improving mysel
 ---
 
 ### 🧠 What I'm Currently Doing
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 - 🔭 Building React-based projects  
 - 🧪 Practicing REST API & Axios  
 - 📚 Strengthening JavaScript & React fundamentals  
 - 🛠 Learning clean code & best practices  
-
----
-
-### 💬 Ask Me About
-
-- HTML, CSS, JavaScript  
-- React Basics  
-- Firebase Authentication  
-- Git & GitHub  
-
-👉 Ask me here:  
-[GitHub Issues](https://github.com/your-username/your-username/issues)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true" height="160"/>
-</p>
 
 ---
 
