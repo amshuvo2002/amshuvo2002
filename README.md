@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:4f46e5&height=200&section=header&text=MD.%20Altaf%20Mahmud&fontSize=40&fontColor=ffffff" />
+</p>
+
 <h1 align="center">Hi 👋, I'm MD. Altaf</h1>
 <h3 align="center">Aspiring Web Developer from Satkhira, Bangladesh 🇧🇩</h3>
 
@@ -5,11 +9,8 @@
   <a href="https://www.linkedin.com/in/md-altaf-mahmud-29b4993a2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/amshuvo1426" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/am_shuvo1426/?next=%2F" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  <a href="https://x.com/AltafMahmud1426" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=flat&logo=x&logoColor=white" />
   </a>
   <a href="mailto:amshuvo.mail1425@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
@@ -25,14 +26,14 @@ I am a learner from **Programming Hero – Web Development (Batch 12)** and focu
 
 I believe in learning by doing, solving real-world problems, and improving myself consistently through practice.
 
+<hr>
+
+<h3 align="left">✨ Random Dev Quote</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
 
 <hr>
-<h3 align="left">✨ Random Dev Quote::</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
-<hr>
----
 
 ### 🛠️ Technologies I Learned in the Last 6 Months
 
@@ -65,15 +66,33 @@ I believe in learning by doing, solving real-world problems, and improving mysel
 </p>
 
 ---
+
 ### 🧠 What I'm Currently Doing
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 - 🔭 Building React-based projects  
 - 🧪 Practicing REST API & Axios  
 - 📚 Strengthening JavaScript & React fundamentals  
-- 🛠 Learning clean code & best practices
+- 🛠 Learning clean code & best practices  
 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AltafMahmud&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AltafMahmud&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AltafMahmud&layout=compact&theme=tokyonight" />
+</p>
+
+---
 
 ### ❤️ Final Note
 
